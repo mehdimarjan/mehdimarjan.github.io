@@ -1,0 +1,642 @@
+[
+  {
+    "date": "2023-07-18",
+    "number_of_tx": 4992,
+    "number_of_users": 4677,
+    "total_eth_value": 1153.0698544269076,
+    "total_fee": 10.849837226685583,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-19",
+    "number_of_tx": 12417,
+    "number_of_users": 11651,
+    "total_eth_value": 3315.1518650947637,
+    "total_fee": 17.185434796739514,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-20",
+    "number_of_tx": 10147,
+    "number_of_users": 9808,
+    "total_eth_value": 1593.4409208040324,
+    "total_fee": 12.885599643952926,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-21",
+    "number_of_tx": 8583,
+    "number_of_users": 8249,
+    "total_eth_value": 1402.574093820717,
+    "total_fee": 11.406334878933436,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-22",
+    "number_of_tx": 13334,
+    "number_of_users": 13059,
+    "total_eth_value": 1718.0800147311256,
+    "total_fee": 14.595498855869275,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-23",
+    "number_of_tx": 13367,
+    "number_of_users": 13029,
+    "total_eth_value": 1648.0580598475876,
+    "total_fee": 13.199326881257651,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-24",
+    "number_of_tx": 6057,
+    "number_of_users": 5933,
+    "total_eth_value": 628.7681292545728,
+    "total_fee": 7.764196824703994,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-25",
+    "number_of_tx": 4636,
+    "number_of_users": 4517,
+    "total_eth_value": 1225.36199760332,
+    "total_fee": 6.836728784854753,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-26",
+    "number_of_tx": 6070,
+    "number_of_users": 5931,
+    "total_eth_value": 553.6069595284176,
+    "total_fee": 7.654123180116237,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-27",
+    "number_of_tx": 4394,
+    "number_of_users": 4292,
+    "total_eth_value": 1430.0077656609174,
+    "total_fee": 6.032034630596299,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-28",
+    "number_of_tx": 4801,
+    "number_of_users": 4743,
+    "total_eth_value": 579.4452015813712,
+    "total_fee": 6.637235978886545,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-29",
+    "number_of_tx": 9743,
+    "number_of_users": 9601,
+    "total_eth_value": 2130.979977413856,
+    "total_fee": 10.711602537957559,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-30",
+    "number_of_tx": 11042,
+    "number_of_users": 10833,
+    "total_eth_value": 915.1343463292764,
+    "total_fee": 11.950493693667918,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-31",
+    "number_of_tx": 9087,
+    "number_of_users": 8960,
+    "total_eth_value": 815.7576780171007,
+    "total_fee": 9.988382381050714,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-01",
+    "number_of_tx": 5175,
+    "number_of_users": 5024,
+    "total_eth_value": 501.64508390319065,
+    "total_fee": 6.394177696169873,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-02",
+    "number_of_tx": 5025,
+    "number_of_users": 4883,
+    "total_eth_value": 478.20845508937003,
+    "total_fee": 5.6692104066223985,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-03",
+    "number_of_tx": 5505,
+    "number_of_users": 5386,
+    "total_eth_value": 435.9740233498935,
+    "total_fee": 6.047948127064623,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-04",
+    "number_of_tx": 7249,
+    "number_of_users": 7161,
+    "total_eth_value": 604.7018097555796,
+    "total_fee": 8.412873296157434,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-05",
+    "number_of_tx": 6017,
+    "number_of_users": 5935,
+    "total_eth_value": 421.97974028429235,
+    "total_fee": 5.92326711499539,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-06",
+    "number_of_tx": 6368,
+    "number_of_users": 6262,
+    "total_eth_value": 501.95153423684735,
+    "total_fee": 5.668289164581204,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-07",
+    "number_of_tx": 4957,
+    "number_of_users": 4877,
+    "total_eth_value": 467.19297225933855,
+    "total_fee": 5.783413624892122,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-08",
+    "number_of_tx": 4276,
+    "number_of_users": 4222,
+    "total_eth_value": 492.7032696210418,
+    "total_fee": 5.350782293325564,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-09",
+    "number_of_tx": 3843,
+    "number_of_users": 3779,
+    "total_eth_value": 340.0365524305545,
+    "total_fee": 4.59034018954663,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-10",
+    "number_of_tx": 3882,
+    "number_of_users": 3821,
+    "total_eth_value": 468.8032770816792,
+    "total_fee": 4.384124211240444,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-11",
+    "number_of_tx": 3500,
+    "number_of_users": 3430,
+    "total_eth_value": 575.1230387959585,
+    "total_fee": 3.829654185473329,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-12",
+    "number_of_tx": 4674,
+    "number_of_users": 4595,
+    "total_eth_value": 432.9463865067349,
+    "total_fee": 4.147806541387704,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-08-13",
+    "number_of_tx": 3249,
+    "number_of_users": 3172,
+    "total_eth_value": 329.3093249393263,
+    "total_fee": 2.6068182708287173,
+    "label": "linea_bridge"
+  },
+  {
+    "date": "2023-07-18",
+    "number_of_tx": 5155,
+    "number_of_users": 4808,
+    "total_eth_value": 267.84432274999693,
+    "total_fee": 2.8740844800338956,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-19",
+    "number_of_tx": 9422,
+    "number_of_users": 7347,
+    "total_eth_value": 1483.0950474999752,
+    "total_fee": 2.8630997946808407,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-20",
+    "number_of_tx": 6500,
+    "number_of_users": 5350,
+    "total_eth_value": 848.0601392899916,
+    "total_fee": 1.7395771588956646,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-21",
+    "number_of_tx": 1201,
+    "number_of_users": 1114,
+    "total_eth_value": 160.72482470999998,
+    "total_fee": 0.3484126905766298,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-22",
+    "number_of_tx": 740,
+    "number_of_users": 683,
+    "total_eth_value": 128.05864947000003,
+    "total_fee": 0.1570380687453826,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-23",
+    "number_of_tx": 759,
+    "number_of_users": 724,
+    "total_eth_value": 89.99254445000008,
+    "total_fee": 0.167001387232797,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-24",
+    "number_of_tx": 667,
+    "number_of_users": 627,
+    "total_eth_value": 85.33685992999992,
+    "total_fee": 0.2229884179602238,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-25",
+    "number_of_tx": 513,
+    "number_of_users": 458,
+    "total_eth_value": 56.35073339000002,
+    "total_fee": 0.15770636520360856,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-26",
+    "number_of_tx": 620,
+    "number_of_users": 532,
+    "total_eth_value": 110.26212631999998,
+    "total_fee": 0.1685315945303261,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-27",
+    "number_of_tx": 363,
+    "number_of_users": 318,
+    "total_eth_value": 195.46787538999985,
+    "total_fee": 0.10265963937752876,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-28",
+    "number_of_tx": 258,
+    "number_of_users": 242,
+    "total_eth_value": 22.408857639999983,
+    "total_fee": 0.08675683212595253,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-29",
+    "number_of_tx": 351,
+    "number_of_users": 324,
+    "total_eth_value": 36.590771110000006,
+    "total_fee": 0.07776250925195599,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-30",
+    "number_of_tx": 316,
+    "number_of_users": 294,
+    "total_eth_value": 30.962663229999993,
+    "total_fee": 0.062344313752558445,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-31",
+    "number_of_tx": 277,
+    "number_of_users": 252,
+    "total_eth_value": 20.899090670000014,
+    "total_fee": 0.0715326643156039,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-01",
+    "number_of_tx": 317,
+    "number_of_users": 292,
+    "total_eth_value": 19.558887319999982,
+    "total_fee": 0.07344728180511034,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-02",
+    "number_of_tx": 749,
+    "number_of_users": 703,
+    "total_eth_value": 59.097567240000046,
+    "total_fee": 0.20836718767644236,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-03",
+    "number_of_tx": 857,
+    "number_of_users": 812,
+    "total_eth_value": 81.4592165199999,
+    "total_fee": 0.19729286695276935,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-04",
+    "number_of_tx": 680,
+    "number_of_users": 640,
+    "total_eth_value": 53.692039019999996,
+    "total_fee": 0.15477166061995257,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-05",
+    "number_of_tx": 690,
+    "number_of_users": 663,
+    "total_eth_value": 32.01641435999998,
+    "total_fee": 0.13542548952221242,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-06",
+    "number_of_tx": 674,
+    "number_of_users": 647,
+    "total_eth_value": 36.683522139999965,
+    "total_fee": 0.12653468022103284,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-07",
+    "number_of_tx": 480,
+    "number_of_users": 455,
+    "total_eth_value": 50.13339249999998,
+    "total_fee": 0.10718792345277214,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-08",
+    "number_of_tx": 193,
+    "number_of_users": 185,
+    "total_eth_value": 22.535658369999982,
+    "total_fee": 0.04705698152448998,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-09",
+    "number_of_tx": 153,
+    "number_of_users": 146,
+    "total_eth_value": 23.275471810000003,
+    "total_fee": 0.032784145533100544,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-10",
+    "number_of_tx": 158,
+    "number_of_users": 141,
+    "total_eth_value": 45.28147562,
+    "total_fee": 0.02997392277712341,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-11",
+    "number_of_tx": 383,
+    "number_of_users": 356,
+    "total_eth_value": 47.75395164000005,
+    "total_fee": 0.057965322903066684,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-12",
+    "number_of_tx": 606,
+    "number_of_users": 569,
+    "total_eth_value": 42.07426914999997,
+    "total_fee": 0.06374171257308918,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-08-13",
+    "number_of_tx": 386,
+    "number_of_users": 360,
+    "total_eth_value": 19.22662426999999,
+    "total_fee": 0.03636006198646926,
+    "label": "rhino"
+  },
+  {
+    "date": "2023-07-19",
+    "number_of_tx": 1769,
+    "number_of_users": 1392,
+    "total_eth_value": 529.3790229999953,
+    "total_fee": 0.29867951951596716,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-07-20",
+    "number_of_tx": 3391,
+    "number_of_users": 2999,
+    "total_eth_value": 357.80805299999497,
+    "total_fee": 0.4217551191686683,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-07-21",
+    "number_of_tx": 5150,
+    "number_of_users": 4648,
+    "total_eth_value": 627.5331579999904,
+    "total_fee": 0.8986740691813938,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-07-22",
+    "number_of_tx": 6085,
+    "number_of_users": 5625,
+    "total_eth_value": 978.213965999985,
+    "total_fee": 1.109379903088866,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-07-23",
+    "number_of_tx": 5278,
+    "number_of_users": 4908,
+    "total_eth_value": 723.0192268078551,
+    "total_fee": 0.6961883943231338,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-07-24",
+    "number_of_tx": 5070,
+    "number_of_users": 4775,
+    "total_eth_value": 584.083402559558,
+    "total_fee": 0.9798634913486383,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-07-25",
+    "number_of_tx": 4127,
+    "number_of_users": 3893,
+    "total_eth_value": 634.7127222812342,
+    "total_fee": 0.7634035795060423,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-07-26",
+    "number_of_tx": 4308,
+    "number_of_users": 4066,
+    "total_eth_value": 502.1560044249939,
+    "total_fee": 0.6580256247178172,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-07-27",
+    "number_of_tx": 3618,
+    "number_of_users": 3394,
+    "total_eth_value": 320.1888600572655,
+    "total_fee": 0.5463924494802312,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-07-28",
+    "number_of_tx": 2947,
+    "number_of_users": 2657,
+    "total_eth_value": 387.4413609999976,
+    "total_fee": 0.8881226512524603,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-07-29",
+    "number_of_tx": 3471,
+    "number_of_users": 3245,
+    "total_eth_value": 467.865680235163,
+    "total_fee": 0.5103830353366765,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-07-30",
+    "number_of_tx": 3807,
+    "number_of_users": 3535,
+    "total_eth_value": 1099.1163590000044,
+    "total_fee": 0.616668410740424,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-07-31",
+    "number_of_tx": 4016,
+    "number_of_users": 3894,
+    "total_eth_value": 285.7254939999968,
+    "total_fee": 0.6439926408158022,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-01",
+    "number_of_tx": 3107,
+    "number_of_users": 2960,
+    "total_eth_value": 360.1345019616117,
+    "total_fee": 0.4567457645719334,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-02",
+    "number_of_tx": 2535,
+    "number_of_users": 2416,
+    "total_eth_value": 370.64317289999667,
+    "total_fee": 0.6391220811268947,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-03",
+    "number_of_tx": 3248,
+    "number_of_users": 3139,
+    "total_eth_value": 562.3060070999959,
+    "total_fee": 0.791444636118174,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-04",
+    "number_of_tx": 2694,
+    "number_of_users": 2629,
+    "total_eth_value": 267.09601982406025,
+    "total_fee": 0.5021997458210565,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-05",
+    "number_of_tx": 1462,
+    "number_of_users": 1415,
+    "total_eth_value": 225.34974099999928,
+    "total_fee": 0.2170371002407043,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-06",
+    "number_of_tx": 1503,
+    "number_of_users": 1427,
+    "total_eth_value": 264.16571798999865,
+    "total_fee": 0.2208469622467311,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-07",
+    "number_of_tx": 1367,
+    "number_of_users": 1287,
+    "total_eth_value": 155.4890650000001,
+    "total_fee": 0.20175533944950433,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-08",
+    "number_of_tx": 1216,
+    "number_of_users": 1101,
+    "total_eth_value": 270.38733499999864,
+    "total_fee": 0.1787781324120555,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-09",
+    "number_of_tx": 1324,
+    "number_of_users": 1188,
+    "total_eth_value": 713.0622119999988,
+    "total_fee": 0.19497842942581672,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-10",
+    "number_of_tx": 1447,
+    "number_of_users": 1368,
+    "total_eth_value": 372.62332536999764,
+    "total_fee": 0.26580378238170704,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-11",
+    "number_of_tx": 1252,
+    "number_of_users": 1161,
+    "total_eth_value": 247.4752867499996,
+    "total_fee": 0.18392911416673666,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-12",
+    "number_of_tx": 1162,
+    "number_of_users": 1060,
+    "total_eth_value": 298.6134985399987,
+    "total_fee": 0.17069103964418247,
+    "label": "orbiter"
+  },
+  {
+    "date": "2023-08-13",
+    "number_of_tx": 843,
+    "number_of_users": 768,
+    "total_eth_value": 217.01027789999964,
+    "total_fee": 0.12392100012392149,
+    "label": "orbiter"
+  }
+]
